@@ -8,8 +8,8 @@
 <img src="images/Storymapcapture.JPG"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[PostGIS Analysis through PgAdmin](/pdf/FinalProjectReport.pdf)
+<img src="images/FinalProjImage.JPG"/>
 
 ---
 [Project 3 Title](http://example.com/)
