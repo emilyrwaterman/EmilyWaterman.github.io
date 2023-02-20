@@ -12,14 +12,17 @@
 <img src="images/FinalProjImage.JPG"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Work Report COMING SOON need Approval](http://example.com/)
+<img src="images/IMG_4573.jpeg"/>
 
 ---
 
-### Category Name 2
+### Maps
 
-- [Project 1 Title](http://example.com/)
+- [Population Data by Land Use]
+- <img src="images/populationData3wyas.jpg"/>
+
+---
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
