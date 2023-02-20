@@ -19,7 +19,7 @@
 
 ### Maps
 
-- Population Data by Land Use
+# Population Data by Land Use
 - <img src="images/populationData3wyas.jpg"/>
 
 ---
