@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Geospatial MCDA](https://storymaps.arcgis.com/stories/2eab443900e94a1f814f346d7934677d/)
+<img src="images/Storymapcapture.JPG"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
