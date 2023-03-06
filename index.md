@@ -22,17 +22,11 @@
 
 Google Earth Engine Applications
 <br>
-[Pre and Post Fire App](https://ewaterman.users.earthengine.app/view/burnedbanda/)
+[Pre and Post Fire App](https://ewaterman.users.earthengine.app/view/burnedbanda)
 <img src="images/BurnedThumbnail.JPG"/>
 ---
 Population Data by Land Use
 - <img src="images/populationData3wyas.jpg"/>
-
----
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
