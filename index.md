@@ -5,6 +5,7 @@
 ### Projects
 
 [Geospatial MCDA](https://storymaps.arcgis.com/stories/2eab443900e94a1f814f346d7934677d/)
+<br>
 <img src="images/Storymapcapture.JPG"/>
 
 ---
@@ -19,7 +20,7 @@
 
 ### Maps/ Apps
 
-Google Earth Engine Application
+Google Earth Engine Applications
 [Pre and Post Fire App](https://ewaterman.users.earthengine.app/view/burnedbanda/)
 <img src="images/BurnedThumbnail.JPG"/>
 ---
