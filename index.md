@@ -25,6 +25,7 @@ Google Earth Engine Applications
 <br>
 [Pre and Post Fire App](https://ewaterman.users.earthengine.app/view/burnedbanda)
 <img src="images/BurnedThumbnail.JPG"/>
+
 ---
 Population Data by Land Use
 <img src="images/populationData3wyas.jpg"/>
