@@ -21,6 +21,7 @@
 ### Maps/ Apps
 
 Google Earth Engine Applications
+<br>
 [Pre and Post Fire App](https://ewaterman.users.earthengine.app/view/burnedbanda/)
 <img src="images/BurnedThumbnail.JPG"/>
 ---
