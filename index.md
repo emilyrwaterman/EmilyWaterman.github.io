@@ -9,7 +9,7 @@
 <img src="images/Storymapcapture.JPG"/>
 
 ---
-[PostGIS Analysis through PgAdmin](/pdf/FinalProjectReport.pdf)
+[Wetland PostGIS Analysis through PgAdmin](/pdf/FinalProjectReport.pdf)
 <img src="images/FinalProjImage.JPG"/>
 
 ---
