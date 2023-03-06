@@ -4,6 +4,7 @@
 
 ### Projects
 
+ArcGIS Story Map
 [Geospatial MCDA](https://storymaps.arcgis.com/stories/2eab443900e94a1f814f346d7934677d/)
 <br>
 <img src="images/Storymapcapture.JPG"/>
