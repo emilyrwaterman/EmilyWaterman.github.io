@@ -26,7 +26,7 @@ Google Earth Engine Applications
 <img src="images/BurnedThumbnail.JPG"/>
 ---
 Population Data by Land Use
-- <img src="images/populationData3wyas.jpg"/>
+<img src="images/populationData3wyas.jpg"/>
 
 ---
 
