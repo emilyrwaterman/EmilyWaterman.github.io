@@ -14,13 +14,14 @@ ArcGIS Story Map
 <img src="images/FinalProjImage.JPG"/>
 
 ---
-[Work Report COMING SOON need Approval](http://example.com/)
-<img src="images/IMG_4573.jpeg"/>
-
----
 
 ### Maps/ Apps
 
+3-D Landscape Diorama's with ArcPro
+<br>
+<img src="images/HugoLayout.png"/>
+
+---
 Google Earth Engine Applications
 <br>
 [Pre and Post Fire App](https://ewaterman.users.earthengine.app/view/burnedbanda)
