@@ -2,19 +2,6 @@
 
 ---
 
-### Projects
-
-ArcGIS Story Map
-[Geospatial MCDA](https://storymaps.arcgis.com/stories/2eab443900e94a1f814f346d7934677d/)
-<br>
-<img src="images/Storymapcapture.JPG"/>
-
----
-[Wetland PostGIS Analysis through PgAdmin](/pdf/FinalProjectReport.pdf)
-<img src="images/FinalProjImage.JPG"/>
-
----
-
 ### Maps/ Apps
 
 3-D Landscape Diorama's with ArcPro
@@ -32,7 +19,18 @@ Population Data by Land Use
 <img src="images/populationData3wyas.jpg"/>
 
 ---
+### Projects
 
+ArcGIS Story Map
+[Geospatial MCDA](https://storymaps.arcgis.com/stories/2eab443900e94a1f814f346d7934677d/)
+<br>
+<img src="images/Storymapcapture.JPG"/>
+
+---
+[Wetland PostGIS Analysis through PgAdmin](/pdf/FinalProjectReport.pdf)
+<img src="images/FinalProjImage.JPG"/>
+
+---
 
 
 
